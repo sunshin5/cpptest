@@ -4,8 +4,6 @@
 
 const int a2 = 30;
 const char* const s2 = "abc";
-//int a2 = 30;
-//char* s2 = "abc";
 
 using namespace std;
 int add(const int a, const char* s) {
